@@ -1,0 +1,6 @@
+I chose to compare trial categories to the measured response times. 
+I loaded my chosen data from the csv provided and used a panda to organize it into a data frame.
+I made a line graph with "Trial" on the x-axis and "Reaction Time (ms)" on the y-axis. I also used the scatter plot to show my individual data points. 
+To clean my data, I calculated the interquartile range (IQR) to remove any outliers in the dataset. 
+
+This graph shows that reaction time goes down by 5 ms each trial after Trial 1 which decreases by 10 ms. 
